@@ -1,6 +1,6 @@
 # Minting DApp for Gidallians.cash
 
-This minting dapp for gidallians.cash is fork from [HashLips minting dapp] (https://github.com/HashLips/hashlips_nft_minting_dapp).
+This minting dapp for gidallians.cash is fork from [HashLips minting dapp](https://github.com/HashLips/hashlips_nft_minting_dapp).
 
 ## Usage
 
